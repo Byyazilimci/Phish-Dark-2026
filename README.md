@@ -1,6 +1,38 @@
 
 <img width="1024" height="1536" alt="ChatGPT Image 1 Oca 2026 22_14_56" src="https://github.com/user-attachments/assets/26cc4da5-c7c0-4628-b0ab-cf0d9566ea8d" />
 
+
+
+
+GEREKLİ KÜTÜPHANELER
+
+
+PC için kurulum: 
+
+
+pip install flask pyngrok requests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Phish-Dark-2026
 
 PhishDark v7.0, sosyal mühendislik ve kimlik avı senaryolarını test ve simülasyon amaçlı kullanmak üzere geliştirilmiş gelişmiş bir araçtır.
